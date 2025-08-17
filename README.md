@@ -18,11 +18,13 @@ This project demonstrates a **text classification model** that predicts the **ge
 
 Movie-Genre-Prediction/<br>
 │-- movie-genre-prediction.ipynb <br>
-│-- test_data.txt<br>
-│-- train_data.txt<br>
-│-- test_data_solution.txt<br>
 │-- README.md<br>
 │-- LICENSE
+
+## Dataset
+```
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+```
 
 ## 📊 Example Predictions
 
