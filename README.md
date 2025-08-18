@@ -16,11 +16,11 @@ Machines to identify spam messages.
 ---
 
 ## 🚀 Features
-- Train a model on movie descriptions and their genres  
+- Train machine learning models on the provided datasets 
 - Use **TF-IDF** to convert text into numerical vectors  
-- Apply a supervised ML classifier for prediction  
-- Test the model on **new, unseen movie descriptions**  
-- Simple and beginner-friendly implementation  
+- Apply a supervised and unsupervised ML wherever needed
+- All the models are trained keeping an eye on the ML development lifecycle
+- Simple and beginner-friendly implementation with detailed explanations
 
 ---
 
