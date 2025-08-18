@@ -1,7 +1,17 @@
 # CODSOFT-ML
-Movie Genre Prediction using Machine Learning Algorithms
+---
 
-This project demonstrates a **text classification model** that predicts the **genre of a movie** based on its description. The model uses **TF-IDF vectorization** and a **machine learning classifier (Logistic Regression / Naive Bayes)** to identify genres such as **Drama, Thriller, Comedy, etc.**
+## 1. Movie Genre Prediction using Machine Learning Algorithms
+Created a machine learning model that can predict the genre of a movie based on its plot summary or other textual information.Using techniques like TF-IDF or word embeddings with classifiers
+such as Naive Bayes, Logistic Regression, or Support Vector Machines.
+
+## 2. Credit Card Fraud Detection
+Build a model to detect fraudulent credit card transactions. Using a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees,
+or Random Forests to classify transactions as fraudulent or legitimate.
+
+## 3. SMS spam detection
+Build an AI model that can classify SMS messages as spam or legitimate. Used techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector
+Machines to identify spam messages.
 
 ---
 
