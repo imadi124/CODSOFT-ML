@@ -18,12 +18,16 @@ This project demonstrates a **text classification model** that predicts the **ge
 
 Movie-Genre-Prediction/<br>
 │-- movie-genre-prediction.ipynb <br>
+│-- spam-or-ham-sms-classifier.ipynb <br>
+│-- credit-card-fraud-detection.ipynb <br>
 │-- README.md<br>
 │-- LICENSE
 
-## Dataset
+## Datasets
 ```
 https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ```
 
 ## 📊 Example Predictions
